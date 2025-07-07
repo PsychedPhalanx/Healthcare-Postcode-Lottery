@@ -11,7 +11,7 @@ Investigating the role of GP surgeries in shaping health and social inequalities
 - To create a tool, enabling users to investigate GP performance in their area.
 
 ## Key Findings
-- **Substantial in GPs per capita and average appointment wait times:**
+- **Substantial variation in GPs per capita and average appointment wait times:**
   - GPs per capita (CV = 0.61) and average appointment wait times (CV = 0.38) are widely used healthcare access measures, both of which show significant variation.
 
 - **Limited correlation with health outcomes (urban local authorities only):**
