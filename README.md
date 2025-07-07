@@ -25,4 +25,20 @@ Investigating the role of GP surgeries in shaping health and social inequalities
   - GPs per Clinical Staff vs Life Expectancy: R² = 15.5% (p < 0.05)
   - GPs per Clinical Staff vs Wait Times: R² = 9.3% (p < 0.05)
  
-  **Differences in GP surgery composition between rural and urban local authorities:**
+## Data Sources
+**Local Authority-Level:**
+1. **Deprivation:** [ONS Census 2021 Households by Deprivation Dimensions](https://www.ons.gov.uk/datasets/TS011/editions/2021/versions/6#variables)
+2. **Life Expectancy:** [ONS Life Expectancy for Local Areas of Great Britain, 2023](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/datasets/lifeexpectancyforlocalareasofgreatbritainsingleyearperiods)
+3. **Population Numbers:** [ONS Estimate of the Population for England and Wales, 2023](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/estimatesofthepopulationforenglandandwales)
+4. **Rural/Urban Classification:** [ONS Rural Urban Classification 2021](https://www.data.gov.uk/dataset/8daa9988-f4e6-40e3-82df-58bb0ae947a3/rural-urban-classification-2021-of-local-authority-districts-2024-in-ew)
+
+**GP Surgery-Level:**
+1. **Staff Data:** [General Practice Workforce, 30 April 2025](https://digital.nhs.uk/data-and-information/publications/statistical/general-and-personal-medical-services/30-april-2025)
+2. **Patient Data:** [Patients Registered at a GP Practice, April 2025](https://digital.nhs.uk/data-and-information/publications/statistical/patients-registered-at-a-gp-practice/april-2025)
+3. **Appointment Data:** [Appointments in General Practice, April 2025](https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice/april-2025)
+
+## Methodology
+
+## Tools Used
+
+## Repository Structure
