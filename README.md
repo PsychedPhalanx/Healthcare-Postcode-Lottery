@@ -11,3 +11,12 @@ Investigating the role of GP surgeries in shaping health and social inequalities
 - To create a tool, enabling users to investigate GP performance in their area.
 
 ## Key Findings
+**Substantial variation exists across England:**
+
+GPs per capita (CV = 0.61) and average appointment wait times (CV = 0.38) are widely used healthcare access measures, both of which show significant variation.
+
+**Limited correlation with health outcomes:**
+- GP density vs Deprivation: R² = 2.2% (p < 0.05)
+- GP density vs Life Expectancy: R² = 1.3% (not significant)  
+- Wait times vs Deprivation: R² = 0.3% (not significant)
+- Wait times vs Life Expectancy: R² = 0.6% (not significant)
