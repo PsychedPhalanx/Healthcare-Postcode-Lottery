@@ -6,17 +6,23 @@ Investigating the role of GP surgeries in shaping health and social inequalities
 - Given that GP surgeries constitute the frontline of the NHS, their performance likely serves as a key determinant of deprivation and life expectancy.
 
 ## Aims
-- To determine whether and to what extend GP surgery performance predicts deprivation and life expectancy at the local authority-level.
+- To determine whether and to what extent GP surgery performance predicts deprivation and life expectancy at the local authority-level.
 - To determine differences in GP surgery composition across rural/urban and socioeconomic divides.
 - To create a tool, enabling users to investigate GP performance in their area.
 
 ## Key Findings
-**Substantial variation exists across England:**
+- **Substantial in GPs per capita and average appointment wait times:**
+  - GPs per capita (CV = 0.61) and average appointment wait times (CV = 0.38) are widely used healthcare access measures, both of which show significant variation.
 
-GPs per capita (CV = 0.61) and average appointment wait times (CV = 0.38) are widely used healthcare access measures, both of which show significant variation.
+- **Limited correlation with health outcomes (urban local authorities only):**
+  - GPs per Capita vs Deprivation: R² = 2.2% (p < 0.05)
+  - GPs per Capita vs Life Expectancy: R² = 1.3% (not significant)  
+  - Wait Times vs Deprivation: R² = 0.3% (not significant)
+  - Wait Times vs Life Expectancy: R² = 0.6% (not significant)
 
-**Limited correlation with health outcomes:**
-- GP density vs Deprivation: R² = 2.2% (p < 0.05)
-- GP density vs Life Expectancy: R² = 1.3% (not significant)  
-- Wait times vs Deprivation: R² = 0.3% (not significant)
-- Wait times vs Life Expectancy: R² = 0.6% (not significant)
+- **GP:Non-GP clinical staff (nurses plus Direct Patient Care) shows superior predictive power (urban local authorities only):**
+  - GPs per Clinical Staff vs Deprivation: R² = 9.7% (p < 0.05)
+  - GPs per Clinical Staff vs Life Expectancy: R² = 15.5% (p < 0.05)
+  - GPs per Clinical Staff vs Wait Times: R² = 9.3% (p < 0.05)
+ 
+  **Differences in GP surgery composition between rural and urban local authorities:**
