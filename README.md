@@ -27,15 +27,15 @@ Investigating the role of GP surgeries in shaping health and social inequalities
  
 ## Data Sources
 **Local Authority-Level:**
-1. **Deprivation:** [ONS Census 2021 Households by Deprivation Dimensions](https://www.ons.gov.uk/datasets/TS011/editions/2021/versions/6#variables)
-2. **Life Expectancy:** [ONS Life Expectancy for Local Areas of Great Britain, 2023](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/datasets/lifeexpectancyforlocalareasofgreatbritainsingleyearperiods)
-3. **Population Numbers:** [ONS Estimate of the Population for England and Wales, 2023](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/estimatesofthepopulationforenglandandwales)
-4. **Rural/Urban Classification:** [ONS Rural Urban Classification 2021](https://www.data.gov.uk/dataset/8daa9988-f4e6-40e3-82df-58bb0ae947a3/rural-urban-classification-2021-of-local-authority-districts-2024-in-ew)
+1. **Deprivation:** [ONS Census 2021 Households by Deprivation Dimensions](https://www.ons.gov.uk/datasets/TS011/editions/2021/versions/6#variables) - Proportion of households experiencing deprivation in one or more measures by local authority, extracted for England only.
+2. **Life Expectancy:** [ONS Life Expectancy for Local Areas of Great Britain, 2023](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/datasets/lifeexpectancyforlocalareasofgreatbritainsingleyearperiods) - Life expectancy at birth estimates by local authority.
+3. **Population Numbers:** [ONS Estimate of the Population for England and Wales, 2023](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/estimatesofthepopulationforenglandandwales) - 2023, mid-year population estimates by local authority.
+4. **Rural/Urban Classification:** [ONS Rural Urban Classification 2021](https://www.data.gov.uk/dataset/8daa9988-f4e6-40e3-82df-58bb0ae947a3/rural-urban-classification-2021-of-local-authority-districts-2024-in-ew) - four-category classification of local authorities as urban, intermediate urban, intermediate rural, or rural, as per [2021 Rural Urban Classification].(https://www.ons.gov.uk/methodology/geography/geographicalproducts/ruralurbanclassifications/2021ruralurbanclassification)
 
 **GP Surgery-Level:**
-1. **Staff Data:** [General Practice Workforce, 30 April 2025](https://digital.nhs.uk/data-and-information/publications/statistical/general-and-personal-medical-services/30-april-2025)
-2. **Patient Data:** [Patients Registered at a GP Practice, April 2025](https://digital.nhs.uk/data-and-information/publications/statistical/patients-registered-at-a-gp-practice/april-2025)
-3. **Appointment Data:** [Appointments in General Practice, April 2025](https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice/april-2025)
+1. **Staff Data:** [General Practice Workforce, 30 April 2025](https://digital.nhs.uk/data-and-information/publications/statistical/general-and-personal-medical-services/30-april-2025) - Headcount data for GPs, practice nurses, and direct patient care staff across GP practices in England
+2. **Patient Data:** [Patients Registered at a GP Practice, April 2025](https://digital.nhs.uk/data-and-information/publications/statistical/patients-registered-at-a-gp-practice/april-2025) - Total number of registered patients per GP practice.
+3. **Appointment Data:** [Appointments in General Practice, April 2025](https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice/april-2025) - total appointments and counts satisfied within same day, 1 day, 2-7 days, 8-14 days, etc. by practice.
 
 **Geographic Linking:**
 1. **Postcode to Local Authority Mapping:** [ONS Postcode Directory (February 2024)](https://geoportal.statistics.gov.uk/datasets/e14b1475ecf74b58804cf667b6740706) - Geographic lookup enabling linkage between GP practice postcodes and local authorities.
