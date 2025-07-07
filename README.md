@@ -37,6 +37,8 @@ Investigating the role of GP surgeries in shaping health and social inequalities
 2. **Patient Data:** [Patients Registered at a GP Practice, April 2025](https://digital.nhs.uk/data-and-information/publications/statistical/patients-registered-at-a-gp-practice/april-2025)
 3. **Appointment Data:** [Appointments in General Practice, April 2025](https://digital.nhs.uk/data-and-information/publications/statistical/appointments-in-general-practice/april-2025)
 
+**Geographic Linking:**
+1. **Postcode to Local Authority Mapping:** [ONS Postcode Directory (February 2024)](https://geoportal.statistics.gov.uk/datasets/e14b1475ecf74b58804cf667b6740706) - Geographic lookup enabling linkage between GP practice postcodes and local authorities.
 ## Methodology
 
 ## Tools Used
