@@ -41,7 +41,13 @@ Investigating the role of GP surgeries in shaping health and social inequalities
 1. **Postcode to Local Authority Mapping:** [ONS Postcode Directory (February 2024)](https://geoportal.statistics.gov.uk/datasets/e14b1475ecf74b58804cf667b6740706) - Geographic lookup enabling linkage between GP practice postcodes and local authorities.
 2. **Local Authority Shapefile:** [Local Authority Districts (May 2024)](https://geoportal.statistics.gov.uk/datasets/ons::local-authority-districts-may-2024-boundaries-uk-bfe-2/about) - Shapefile for the plotting of choropleth maps.
 ## Methodology
-
+1. **Local Authority Data Processing:**
+    - Extracted local authority-level data from ONS sources containing several geographic levels of detail. Used PostgreSQL to join datasets on local authority code.
+2. **GP Surgery Data Processing:**
+    - Extracted headcount data (rather than FTE) from staff data. Used PostgreSQL to convert staffing data from long to wide format, generating a singular row per GP practice, with columns for the number of GPs, nurses and DPC staff.
+    - Estimated average wait times per practice from appointment interval data by assigning values to each time bracket (0 days, 1 day, 2-7 days = 4.5 days, 8-14 days = 11 days, etc.) and calculating the weighted average based on appointment volumes to generate a single estimated wait time per practice.
+    - Used ONS Postcode Directory to map GP practice postcodes to their corresponding local authorities, enabling aggregation of practice-level data to the local authority level.
+    - Joined all GP surgery datasets on practice code.
 ## Tools Used
 
 ## Repository Structure
