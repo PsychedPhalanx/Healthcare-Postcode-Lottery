@@ -20,7 +20,7 @@ Investigating the role of GP surgeries in shaping health and social inequalities
   - Wait Times vs Deprivation: R² = 0.3% (not significant)
   - Wait Times vs Life Expectancy: R² = 0.6% (not significant)
 
-- **GP:Non-GP clinical staff (nurses plus Direct Patient Care) shows superior predictive power (urban local authorities only):**
+- **The ratio of GPs to non-GP clinical staff (nurses plus Direct Patient Care) shows superior predictive power (urban local authorities only):**
   - GPs per Clinical Staff vs Deprivation: R² = 9.7% (p < 0.05)
   - GPs per Clinical Staff vs Life Expectancy: R² = 15.5% (p < 0.05)
   - GPs per Clinical Staff vs Wait Times: R² = 9.3% (p < 0.05)
