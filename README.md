@@ -24,6 +24,10 @@ Investigating the role of GP surgeries in shaping health and social inequalities
   - GPs per Clinical Staff vs Deprivation: R² = 9.7% (p < 0.05)
   - GPs per Clinical Staff vs Life Expectancy: R² = 15.5% (p < 0.05)
   - GPs per Clinical Staff vs Wait Times: R² = 9.3% (p < 0.05)
+
+## Dashboard
+
+**[Access the Tableau dashboard here:](https://public.tableau.com/app/profile/shivam.wadhia/viz/HealthcarePostcodeLottery/Dashboard1)**
  
 ## Data Sources
 **Local Authority-Level:**
@@ -48,6 +52,12 @@ Investigating the role of GP surgeries in shaping health and social inequalities
     - Estimated average wait times per practice from appointment interval data by assigning values to each time bracket (0 days, 1 day, 2-7 days = 4.5 days, 8-14 days = 11 days, etc.) and calculating the weighted average based on appointment volumes to generate a single estimated wait time per practice.
     - Used ONS Postcode Directory to map GP practice postcodes to their corresponding local authorities, enabling aggregation of practice-level data to the local authority level.
     - Joined all GP surgery datasets on practice code.
+3. **Analysis and Visualisation:**
+    - Aggregated practice-level metrics to local authority level.
+    - Created calculated fields for per capita metrics, staff ratios, and variation measures.
+    - Performed statistical analysis examining relationships between healthcare metrics and health outcomes across continuous and categorical variables.
+    - Built an interactive dashboard on Tableau with a GP finder tool.
 ## Tools Used
-
+- PostgreSQL
+- Tableau Public
 ## Repository Structure
