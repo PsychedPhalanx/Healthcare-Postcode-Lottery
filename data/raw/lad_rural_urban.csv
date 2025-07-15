@@ -1,0 +1,319 @@
+LAD Code,Rural/Urban,Rurality %
+E06000001,Urban,3.1
+E06000002,Urban,0.2
+E06000003,Intermediate urban,31.7
+E06000004,Urban,5.6
+E06000005,Urban,13.1
+E06000006,Urban,0.7
+E06000007,Urban,8.6
+E06000008,Urban,4.5
+E06000009,Urban,0
+E06000010,Urban,0
+E06000011,Intermediate rural,43.6
+E06000012,Urban,6.6
+E06000013,Intermediate rural,44.2
+E06000014,Urban,13.8
+E06000015,Urban,0
+E06000016,Urban,0.2
+E06000017,Rural,65
+E06000018,Urban,0
+E06000019,Rural,54
+E06000020,Urban,6
+E06000021,Urban,0.2
+E06000022,Intermediate urban,23.5
+E06000023,Urban,0
+E06000024,Intermediate urban,20.7
+E06000025,Urban,11.5
+E06000026,Urban,0
+E06000027,Urban,0.3
+E06000030,Urban,10.1
+E06000031,Urban,10.6
+E06000032,Urban,0
+E06000033,Urban,0
+E06000034,Urban,13.4
+E06000035,Urban,11.6
+E06000036,Urban,2.1
+E06000037,Intermediate rural,38.7
+E06000038,Urban,0
+E06000039,Urban,0
+E06000040,Urban,10.2
+E06000041,Urban,17
+E06000042,Urban,6.7
+E06000043,Urban,0
+E06000044,Urban,0
+E06000045,Urban,0
+E06000046,Intermediate rural,37.5
+E06000047,Intermediate rural,43
+E06000049,Urban,18
+E06000050,Intermediate urban,25.6
+E06000051,Rural,57.3
+E06000052,Rural,55.4
+E06000053,Rural,100
+E06000054,Intermediate rural,41.3
+E06000055,Intermediate urban,31.8
+E06000056,Intermediate rural,36.2
+E06000057,Intermediate rural,45.1
+E06000058,Urban,1.7
+E06000059,Intermediate rural,46.7
+E06000060,Intermediate urban,28.9
+E06000061,Intermediate urban,26.7
+E06000062,Intermediate urban,27.4
+E06000063,Rural,50.9
+E06000064,Intermediate rural,49.8
+E06000065,Rural,51.8
+E06000066,Intermediate rural,47.5
+E07000008,Urban,0
+E07000009,Rural,62.6
+E07000010,Intermediate urban,23.5
+E07000011,Rural,50.3
+E07000012,Rural,66.7
+E07000032,Intermediate urban,23.5
+E07000033,Intermediate rural,47.1
+E07000034,Urban,0.9
+E07000035,Rural,77.1
+E07000036,Urban,16.3
+E07000037,Intermediate urban,29.9
+E07000038,Intermediate rural,39.7
+E07000039,Intermediate rural,41.1
+E07000040,Rural,52.8
+E07000041,Urban,0
+E07000042,Rural,74.5
+E07000043,Rural,53.8
+E07000044,Rural,80.3
+E07000045,Intermediate rural,43.2
+E07000046,Rural,55.1
+E07000047,Rural,77.8
+E07000061,Urban,0
+E07000062,Urban,0
+E07000063,Intermediate urban,21.3
+E07000064,Rural,51.9
+E07000065,Intermediate rural,35.5
+E07000066,Urban,0.2
+E07000067,Intermediate rural,35.7
+E07000068,Intermediate urban,28
+E07000069,Urban,0
+E07000070,Urban,19.5
+E07000071,Intermediate urban,25.2
+E07000072,Intermediate urban,25.6
+E07000073,Urban,0
+E07000074,Rural,64.7
+E07000075,Urban,11.9
+E07000076,Intermediate urban,32.3
+E07000077,Rural,70.4
+E07000078,Urban,0
+E07000079,Rural,79.1
+E07000080,Rural,65
+E07000081,Urban,0
+E07000082,Intermediate urban,26.9
+E07000083,Intermediate urban,29.2
+E07000084,Intermediate urban,26
+E07000085,Intermediate rural,36.7
+E07000086,Urban,0.5
+E07000087,Urban,0.7
+E07000088,Urban,0
+E07000089,Intermediate urban,29.9
+E07000090,Urban,1.5
+E07000091,Intermediate urban,30.8
+E07000092,Urban,0
+E07000093,Intermediate urban,32.3
+E07000094,Intermediate rural,44.7
+E07000095,Urban,0
+E07000096,Urban,8.7
+E07000098,Urban,13.7
+E07000099,Urban,17
+E07000102,Urban,2.1
+E07000103,Urban,0
+E07000105,Intermediate rural,37
+E07000106,Urban,12.2
+E07000107,Urban,8.2
+E07000108,Intermediate urban,32.3
+E07000109,Urban,14.6
+E07000110,Intermediate urban,25.1
+E07000111,Intermediate rural,46.3
+E07000112,Intermediate rural,38.1
+E07000113,Intermediate urban,22.9
+E07000114,Urban,2.1
+E07000115,Intermediate rural,35.5
+E07000116,Intermediate rural,45.7
+E07000117,Urban,5.2
+E07000118,Intermediate rural,35.8
+E07000119,Intermediate urban,23.5
+E07000120,Urban,9.3
+E07000121,Intermediate urban,28.4
+E07000122,Urban,13
+E07000123,Urban,5.1
+E07000124,Rural,61.4
+E07000125,Urban,6.3
+E07000126,Urban,6
+E07000127,Intermediate rural,36.5
+E07000128,Intermediate urban,30.1
+E07000129,Intermediate urban,21.8
+E07000130,Intermediate urban,24.7
+E07000131,Rural,54.8
+E07000132,Intermediate rural,37.1
+E07000133,Intermediate rural,46.4
+E07000134,Intermediate rural,45
+E07000135,Urban,0
+E07000136,Intermediate urban,34.9
+E07000137,Rural,62
+E07000138,Urban,0
+E07000139,Rural,63.3
+E07000140,Rural,63.1
+E07000141,Intermediate urban,32.2
+E07000142,Rural,74.8
+E07000143,Intermediate rural,48.8
+E07000144,Rural,51.2
+E07000145,Intermediate urban,34.8
+E07000146,Rural,57.9
+E07000147,Rural,87.5
+E07000148,Urban,0
+E07000149,Rural,67.2
+E07000170,Urban,4.1
+E07000171,Intermediate rural,40.7
+E07000172,Urban,0.4
+E07000173,Urban,15.7
+E07000174,Urban,11.4
+E07000175,Intermediate rural,42.9
+E07000176,Intermediate rural,48.8
+E07000177,Intermediate urban,28.8
+E07000178,Urban,0.8
+E07000179,Rural,59.7
+E07000180,Intermediate rural,39.1
+E07000181,Rural,55.9
+E07000192,Urban,10.4
+E07000193,Intermediate urban,21.6
+E07000194,Intermediate urban,27.5
+E07000195,Urban,19.1
+E07000196,Intermediate rural,41.5
+E07000197,Intermediate urban,29.4
+E07000198,Intermediate urban,31
+E07000199,Urban,0
+E07000200,Rural,68.3
+E07000202,Urban,0
+E07000203,Rural,73.5
+E07000207,Urban,1
+E07000208,Urban,1.9
+E07000209,Urban,16.4
+E07000210,Intermediate urban,25.4
+E07000211,Urban,4.3
+E07000212,Urban,1.2
+E07000213,Urban,0.9
+E07000214,Urban,10.3
+E07000215,Intermediate urban,34.4
+E07000216,Urban,17.8
+E07000217,Urban,0.8
+E07000218,Rural,58.4
+E07000219,Urban,0
+E07000220,Intermediate urban,22.4
+E07000221,Rural,72.9
+E07000222,Urban,13.5
+E07000223,Urban,0
+E07000224,Urban,4.4
+E07000225,Rural,50.2
+E07000226,Urban,0
+E07000227,Rural,51.6
+E07000228,Urban,19
+E07000229,Urban,0
+E07000234,Intermediate urban,20.3
+E07000235,Rural,54.2
+E07000236,Urban,1.5
+E07000237,Urban,0
+E07000238,Rural,52
+E07000239,Intermediate urban,21.3
+E07000240,Urban,16.7
+E07000241,Urban,13.8
+E07000242,Intermediate urban,29.9
+E07000243,Urban,0
+E07000244,Intermediate rural,36.2
+E07000245,Intermediate rural,42.8
+E08000001,Urban,0.4
+E08000002,Urban,1.9
+E08000003,Urban,0
+E08000004,Urban,1.6
+E08000005,Urban,1.9
+E08000006,Urban,0
+E08000007,Urban,0.4
+E08000008,Urban,0.2
+E08000009,Urban,0.3
+E08000010,Urban,3.4
+E08000011,Urban,0.2
+E08000012,Urban,0
+E08000013,Urban,4.8
+E08000014,Urban,1.4
+E08000015,Urban,0.6
+E08000016,Urban,10.8
+E08000017,Urban,16.1
+E08000018,Urban,10.7
+E08000019,Urban,1.7
+E08000021,Urban,3.7
+E08000022,Urban,0.2
+E08000023,Urban,0.1
+E08000024,Urban,0.7
+E08000025,Urban,0
+E08000026,Urban,0.2
+E08000027,Urban,0
+E08000028,Urban,0
+E08000029,Urban,12.2
+E08000030,Urban,0.1
+E08000031,Urban,0
+E08000032,Urban,7.8
+E08000033,Urban,18.8
+E08000034,Urban,11
+E08000035,Urban,6.6
+E08000036,Urban,17.6
+E08000037,Urban,8.2
+E09000001,Urban,0
+E09000002,Urban,0
+E09000003,Urban,0
+E09000004,Urban,0
+E09000005,Urban,0
+E09000006,Urban,0
+E09000007,Urban,0
+E09000008,Urban,0
+E09000009,Urban,0
+E09000010,Urban,0
+E09000011,Urban,0
+E09000012,Urban,0
+E09000013,Urban,0
+E09000014,Urban,0
+E09000015,Urban,0
+E09000016,Urban,0
+E09000017,Urban,0
+E09000018,Urban,0
+E09000019,Urban,0
+E09000020,Urban,0
+E09000021,Urban,0
+E09000022,Urban,0
+E09000023,Urban,0
+E09000024,Urban,0
+E09000025,Urban,0
+E09000026,Urban,0
+E09000027,Urban,0
+E09000028,Urban,0
+E09000029,Urban,0
+E09000030,Urban,0
+E09000031,Urban,0
+E09000032,Urban,0
+E09000033,Urban,0
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,

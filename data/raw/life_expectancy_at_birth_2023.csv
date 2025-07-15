@@ -1,0 +1,589 @@
+Area code,Area name,Sex,Life expectancy
+E06000001,Hartlepool,Male,76.64
+E06000001,Hartlepool,Female,80.39
+E06000002,Middlesbrough,Male,75.12
+E06000002,Middlesbrough,Female,80.54
+E06000003,Redcar and Cleveland,Male,76.61
+E06000003,Redcar and Cleveland,Female,81.03
+E06000004,Stockton-on-Tees,Male,78.58
+E06000004,Stockton-on-Tees,Female,81.76
+E06000005,Darlington,Male,77.87
+E06000005,Darlington,Female,81.06
+E06000006,Halton,Male,76.86
+E06000006,Halton,Female,80.73
+E06000007,Warrington,Male,78.81
+E06000007,Warrington,Female,81.79
+E06000008,Blackburn with Darwen,Male,76.42
+E06000008,Blackburn with Darwen,Female,80.25
+E06000009,Blackpool,Male,73.36
+E06000009,Blackpool,Female,78.15
+E06000010,"Kingston upon Hull, City of",Male,75.56
+E06000010,"Kingston upon Hull, City of",Female,80.66
+E06000011,East Riding of Yorkshire,Male,79.49
+E06000011,East Riding of Yorkshire,Female,83.34
+E06000012,North East Lincolnshire,Male,76.65
+E06000012,North East Lincolnshire,Female,81.33
+E06000013,North Lincolnshire,Male,77.52
+E06000013,North Lincolnshire,Female,81.94
+E06000014,York,Male,80.18
+E06000014,York,Female,83.93
+E06000015,Derby,Male,78.73
+E06000015,Derby,Female,81.65
+E06000016,Leicester,Male,77.1
+E06000016,Leicester,Female,81.19
+E06000017,Rutland,Male,81.72
+E06000017,Rutland,Female,86.57
+E06000018,Nottingham,Male,76.57
+E06000018,Nottingham,Female,80.86
+E06000019,"Herefordshire, County of",Male,79.51
+E06000019,"Herefordshire, County of",Female,83.18
+E06000020,Telford and Wrekin,Male,78.72
+E06000020,Telford and Wrekin,Female,81.79
+E06000021,Stoke-on-Trent,Male,77.5
+E06000021,Stoke-on-Trent,Female,80.09
+E06000022,Bath and North East Somerset,Male,81.4
+E06000022,Bath and North East Somerset,Female,84.28
+E06000023,"Bristol, City of",Male,78.89
+E06000023,"Bristol, City of",Female,82.72
+E06000024,North Somerset,Male,80.71
+E06000024,North Somerset,Female,84.11
+E06000025,South Gloucestershire,Male,81.24
+E06000025,South Gloucestershire,Female,84.65
+E06000026,Plymouth,Male,78.67
+E06000026,Plymouth,Female,82.97
+E06000027,Torbay,Male,78.68
+E06000027,Torbay,Female,83.07
+E06000030,Swindon,Male,79.91
+E06000030,Swindon,Female,83.55
+E06000031,Peterborough,Male,77.39
+E06000031,Peterborough,Female,81.89
+E06000032,Luton,Male,78.19
+E06000032,Luton,Female,83.35
+E06000033,Southend-on-Sea,Male,78.44
+E06000033,Southend-on-Sea,Female,82.47
+E06000034,Thurrock,Male,78.7
+E06000034,Thurrock,Female,83.07
+E06000035,Medway,Male,78.53
+E06000035,Medway,Female,82.48
+E06000036,Bracknell Forest,Male,81.2
+E06000036,Bracknell Forest,Female,85.87
+E06000037,West Berkshire,Male,81.2
+E06000037,West Berkshire,Female,84.52
+E06000038,Reading,Male,80.1
+E06000038,Reading,Female,82.91
+E06000039,Slough,Male,77.83
+E06000039,Slough,Female,82.74
+E06000040,Windsor and Maidenhead,Male,81.67
+E06000040,Windsor and Maidenhead,Female,85.08
+E06000041,Wokingham,Male,82.15
+E06000041,Wokingham,Female,85.6
+E06000042,Milton Keynes,Male,80.67
+E06000042,Milton Keynes,Female,82.98
+E06000043,Brighton and Hove,Male,78.83
+E06000043,Brighton and Hove,Female,83.63
+E06000044,Portsmouth,Male,78.06
+E06000044,Portsmouth,Female,83.01
+E06000045,Southampton,Male,77.9
+E06000045,Southampton,Female,82.14
+E06000046,Isle of Wight,Male,79.58
+E06000046,Isle of Wight,Female,83.12
+E06000047,County Durham,Male,77.42
+E06000047,County Durham,Female,81.54
+E06000049,Cheshire East,Male,79.81
+E06000049,Cheshire East,Female,83.66
+E06000050,Cheshire West and Chester,Male,79.45
+E06000050,Cheshire West and Chester,Female,83.2
+E06000051,Shropshire,Male,80.46
+E06000051,Shropshire,Female,83.99
+E06000052,Cornwall,Male,79.52
+E06000052,Cornwall,Female,83.42
+E06000054,Wiltshire,Male,81.05
+E06000054,Wiltshire,Female,84.53
+E06000055,Bedford,Male,79.51
+E06000055,Bedford,Female,83.91
+E06000056,Central Bedfordshire,Male,80.59
+E06000056,Central Bedfordshire,Female,84.6
+E06000057,Northumberland,Male,78.96
+E06000057,Northumberland,Female,82.77
+E06000058,"Bournemouth, Christchurch and Poole",Male,79.34
+E06000058,"Bournemouth, Christchurch and Poole",Female,83.86
+E06000059,Dorset,Male,81.11
+E06000059,Dorset,Female,84.46
+E06000060,Buckinghamshire,Male,81.47
+E06000060,Buckinghamshire,Female,85.37
+E06000061,North Northamptonshire,Male,78.41
+E06000061,North Northamptonshire,Female,82.05
+E06000062,West Northamptonshire,Male,79.07
+E06000062,West Northamptonshire,Female,83.37
+E06000063,Cumberland,Male,77.3
+E06000063,Cumberland,Female,81.41
+E06000064,Westmorland and Furness,Male,79.38
+E06000064,Westmorland and Furness,Female,83.87
+E06000065,North Yorkshire,Male,80.21
+E06000065,North Yorkshire,Female,83.79
+E06000066,Somerset,Male,79.76
+E06000066,Somerset,Female,83.98
+E07000008,Cambridge,Male,79.75
+E07000008,Cambridge,Female,84.35
+E07000009,East Cambridgeshire,Male,81.57
+E07000009,East Cambridgeshire,Female,84.42
+E07000010,Fenland,Male,77.36
+E07000010,Fenland,Female,81.83
+E07000011,Huntingdonshire,Male,81.44
+E07000011,Huntingdonshire,Female,84.18
+E07000012,South Cambridgeshire,Male,82.22
+E07000012,South Cambridgeshire,Female,85.84
+E07000032,Amber Valley,Male,78.89
+E07000032,Amber Valley,Female,82.49
+E07000033,Bolsover,Male,76.95
+E07000033,Bolsover,Female,81.51
+E07000034,Chesterfield,Male,77.96
+E07000034,Chesterfield,Female,81.59
+E07000035,Derbyshire Dales,Male,80.43
+E07000035,Derbyshire Dales,Female,85.06
+E07000036,Erewash,Male,78.59
+E07000036,Erewash,Female,82.09
+E07000037,High Peak,Male,79.62
+E07000037,High Peak,Female,83.22
+E07000038,North East Derbyshire,Male,80.43
+E07000038,North East Derbyshire,Female,84.04
+E07000039,South Derbyshire,Male,80.48
+E07000039,South Derbyshire,Female,82.57
+E07000040,East Devon,Male,81.64
+E07000040,East Devon,Female,85.22
+E07000041,Exeter,Male,79.52
+E07000041,Exeter,Female,82.99
+E07000042,Mid Devon,Male,80.23
+E07000042,Mid Devon,Female,84.12
+E07000043,North Devon,Male,78.12
+E07000043,North Devon,Female,82.97
+E07000044,South Hams,Male,81.74
+E07000044,South Hams,Female,86.18
+E07000045,Teignbridge,Male,82.01
+E07000045,Teignbridge,Female,84.99
+E07000046,Torridge,Male,80.59
+E07000046,Torridge,Female,83.5
+E07000047,West Devon,Male,79.54
+E07000047,West Devon,Female,84.86
+E07000061,Eastbourne,Male,78.7
+E07000061,Eastbourne,Female,83.26
+E07000062,Hastings,Male,77.16
+E07000062,Hastings,Female,81.55
+E07000063,Lewes,Male,79.62
+E07000063,Lewes,Female,84.69
+E07000064,Rother,Male,80.79
+E07000064,Rother,Female,83.52
+E07000065,Wealden,Male,82.84
+E07000065,Wealden,Female,84.59
+E07000066,Basildon,Male,80.2
+E07000066,Basildon,Female,82.35
+E07000067,Braintree,Male,79.25
+E07000067,Braintree,Female,82.7
+E07000068,Brentwood,Male,82.49
+E07000068,Brentwood,Female,84.56
+E07000069,Castle Point,Male,80.3
+E07000069,Castle Point,Female,83.92
+E07000070,Chelmsford,Male,80.71
+E07000070,Chelmsford,Female,84.17
+E07000071,Colchester,Male,79.81
+E07000071,Colchester,Female,84.03
+E07000072,Epping Forest,Male,80.36
+E07000072,Epping Forest,Female,85.12
+E07000073,Harlow,Male,78.28
+E07000073,Harlow,Female,81.7
+E07000074,Maldon,Male,81.61
+E07000074,Maldon,Female,83.41
+E07000075,Rochford,Male,80.53
+E07000075,Rochford,Female,83.18
+E07000076,Tendring,Male,77.4
+E07000076,Tendring,Female,81.5
+E07000077,Uttlesford,Male,82.4
+E07000077,Uttlesford,Female,85.71
+E07000078,Cheltenham,Male,79.52
+E07000078,Cheltenham,Female,83.91
+E07000079,Cotswold,Male,82.19
+E07000079,Cotswold,Female,84.15
+E07000080,Forest of Dean,Male,79.12
+E07000080,Forest of Dean,Female,83.53
+E07000081,Gloucester,Male,77.67
+E07000081,Gloucester,Female,82.72
+E07000082,Stroud,Male,80.86
+E07000082,Stroud,Female,83.95
+E07000083,Tewkesbury,Male,82.22
+E07000083,Tewkesbury,Female,84.94
+E07000084,Basingstoke and Deane,Male,81.78
+E07000084,Basingstoke and Deane,Female,84.47
+E07000085,East Hampshire,Male,81.43
+E07000085,East Hampshire,Female,85.03
+E07000086,Eastleigh,Male,81.45
+E07000086,Eastleigh,Female,85.14
+E07000087,Fareham,Male,81.42
+E07000087,Fareham,Female,84.58
+E07000088,Gosport,Male,78.69
+E07000088,Gosport,Female,82.14
+E07000089,Hart,Male,82.83
+E07000089,Hart,Female,85.96
+E07000090,Havant,Male,80.83
+E07000090,Havant,Female,82.79
+E07000091,New Forest,Male,81.41
+E07000091,New Forest,Female,85.62
+E07000092,Rushmoor,Male,80.29
+E07000092,Rushmoor,Female,83.24
+E07000093,Test Valley,Male,81.43
+E07000093,Test Valley,Female,84.62
+E07000094,Winchester,Male,81.42
+E07000094,Winchester,Female,85.91
+E07000095,Broxbourne,Male,80.71
+E07000095,Broxbourne,Female,84.7
+E07000096,Dacorum,Male,80.98
+E07000096,Dacorum,Female,83.8
+E07000098,Hertsmere,Male,81.02
+E07000098,Hertsmere,Female,84.76
+E07000099,North Hertfordshire,Male,81.24
+E07000099,North Hertfordshire,Female,83.97
+E07000102,Three Rivers,Male,80.88
+E07000102,Three Rivers,Female,83.85
+E07000103,Watford,Male,79.12
+E07000103,Watford,Female,83.15
+E07000105,Ashford,Male,79.97
+E07000105,Ashford,Female,83.26
+E07000106,Canterbury,Male,79.36
+E07000106,Canterbury,Female,83.45
+E07000107,Dartford,Male,80.2
+E07000107,Dartford,Female,83.8
+E07000108,Dover,Male,79.11
+E07000108,Dover,Female,83.68
+E07000109,Gravesham,Male,78.93
+E07000109,Gravesham,Female,83.97
+E07000110,Maidstone,Male,80.4
+E07000110,Maidstone,Female,84.06
+E07000111,Sevenoaks,Male,82.65
+E07000111,Sevenoaks,Female,85.42
+E07000112,Folkestone and Hythe,Male,77.96
+E07000112,Folkestone and Hythe,Female,83.26
+E07000113,Swale,Male,78.39
+E07000113,Swale,Female,83.83
+E07000114,Thanet,Male,77.39
+E07000114,Thanet,Female,82.04
+E07000115,Tonbridge and Malling,Male,81.08
+E07000115,Tonbridge and Malling,Female,84.5
+E07000116,Tunbridge Wells,Male,81.18
+E07000116,Tunbridge Wells,Female,84.61
+E07000117,Burnley,Male,75.35
+E07000117,Burnley,Female,80.17
+E07000118,Chorley,Male,77.57
+E07000118,Chorley,Female,82.31
+E07000119,Fylde,Male,79.79
+E07000119,Fylde,Female,83.02
+E07000120,Hyndburn,Male,75.72
+E07000120,Hyndburn,Female,79.42
+E07000121,Lancaster,Male,76.99
+E07000121,Lancaster,Female,81.67
+E07000122,Pendle,Male,77.63
+E07000122,Pendle,Female,81.67
+E07000123,Preston,Male,76.92
+E07000123,Preston,Female,81.57
+E07000124,Ribble Valley,Male,80.54
+E07000124,Ribble Valley,Female,85.02
+E07000125,Rossendale,Male,77.52
+E07000125,Rossendale,Female,81.17
+E07000126,South Ribble,Male,79.26
+E07000126,South Ribble,Female,84.19
+E07000127,West Lancashire,Male,79.95
+E07000127,West Lancashire,Female,82.24
+E07000128,Wyre,Male,78.34
+E07000128,Wyre,Female,82.33
+E07000129,Blaby,Male,81.4
+E07000129,Blaby,Female,84.5
+E07000130,Charnwood,Male,79.62
+E07000130,Charnwood,Female,83.13
+E07000131,Harborough,Male,81.34
+E07000131,Harborough,Female,84.97
+E07000132,Hinckley and Bosworth,Male,79.5
+E07000132,Hinckley and Bosworth,Female,83.51
+E07000133,Melton,Male,81.22
+E07000133,Melton,Female,84.21
+E07000134,North West Leicestershire,Male,80.22
+E07000134,North West Leicestershire,Female,83.51
+E07000135,Oadby and Wigston,Male,81.31
+E07000135,Oadby and Wigston,Female,84.12
+E07000136,Boston,Male,77.56
+E07000136,Boston,Female,82.43
+E07000137,East Lindsey,Male,76.82
+E07000137,East Lindsey,Female,81.44
+E07000138,Lincoln,Male,75.38
+E07000138,Lincoln,Female,80.9
+E07000139,North Kesteven,Male,81.01
+E07000139,North Kesteven,Female,82.47
+E07000140,South Holland,Male,78.48
+E07000140,South Holland,Female,82.22
+E07000141,South Kesteven,Male,79.44
+E07000141,South Kesteven,Female,83.08
+E07000142,West Lindsey,Male,78.13
+E07000142,West Lindsey,Female,83.75
+E07000143,Breckland,Male,80.04
+E07000143,Breckland,Female,83.11
+E07000144,Broadland,Male,81.02
+E07000144,Broadland,Female,84.67
+E07000145,Great Yarmouth,Male,77.07
+E07000145,Great Yarmouth,Female,82.45
+E07000146,King's Lynn and West Norfolk,Male,79.62
+E07000146,King's Lynn and West Norfolk,Female,83.54
+E07000147,North Norfolk,Male,81.35
+E07000147,North Norfolk,Female,84.88
+E07000148,Norwich,Male,78.07
+E07000148,Norwich,Female,82.7
+E07000149,South Norfolk,Male,80.52
+E07000149,South Norfolk,Female,84.53
+E07000170,Ashfield,Male,77.39
+E07000170,Ashfield,Female,80.79
+E07000171,Bassetlaw,Male,78.77
+E07000171,Bassetlaw,Female,83.71
+E07000172,Broxtowe,Male,79.76
+E07000172,Broxtowe,Female,83.94
+E07000173,Gedling,Male,79.99
+E07000173,Gedling,Female,83.66
+E07000174,Mansfield,Male,78.06
+E07000174,Mansfield,Female,81.17
+E07000175,Newark and Sherwood,Male,79.13
+E07000175,Newark and Sherwood,Female,82.98
+E07000176,Rushcliffe,Male,81.13
+E07000176,Rushcliffe,Female,85.09
+E07000177,Cherwell,Male,80.67
+E07000177,Cherwell,Female,83.31
+E07000178,Oxford,Male,80.56
+E07000178,Oxford,Female,83.39
+E07000179,South Oxfordshire,Male,82.66
+E07000179,South Oxfordshire,Female,85.42
+E07000180,Vale of White Horse,Male,81.68
+E07000180,Vale of White Horse,Female,85.27
+E07000181,West Oxfordshire,Male,82.12
+E07000181,West Oxfordshire,Female,85.07
+E07000192,Cannock Chase,Male,79.4
+E07000192,Cannock Chase,Female,82.64
+E07000193,East Staffordshire,Male,79.64
+E07000193,East Staffordshire,Female,83.32
+E07000194,Lichfield,Male,81.2
+E07000194,Lichfield,Female,84.7
+E07000195,Newcastle-under-Lyme,Male,79.42
+E07000195,Newcastle-under-Lyme,Female,82.69
+E07000196,South Staffordshire,Male,80.27
+E07000196,South Staffordshire,Female,84.39
+E07000197,Stafford,Male,80.06
+E07000197,Stafford,Female,83.44
+E07000198,Staffordshire Moorlands,Male,79.36
+E07000198,Staffordshire Moorlands,Female,83.83
+E07000199,Tamworth,Male,78.81
+E07000199,Tamworth,Female,82.94
+E07000200,Babergh,Male,81.44
+E07000200,Babergh,Female,84.69
+E07000202,Ipswich,Male,78.75
+E07000202,Ipswich,Female,83.09
+E07000203,Mid Suffolk,Male,80.62
+E07000203,Mid Suffolk,Female,85.11
+E07000207,Elmbridge,Male,82.06
+E07000207,Elmbridge,Female,86.15
+E07000208,Epsom and Ewell,Male,80.55
+E07000208,Epsom and Ewell,Female,85.49
+E07000209,Guildford,Male,81.66
+E07000209,Guildford,Female,84.88
+E07000210,Mole Valley,Male,81.9
+E07000210,Mole Valley,Female,85.36
+E07000211,Reigate and Banstead,Male,81.34
+E07000211,Reigate and Banstead,Female,85.12
+E07000212,Runnymede,Male,79.88
+E07000212,Runnymede,Female,83.48
+E07000213,Spelthorne,Male,80.6
+E07000213,Spelthorne,Female,85.47
+E07000214,Surrey Heath,Male,83.21
+E07000214,Surrey Heath,Female,85.28
+E07000215,Tandridge,Male,82.51
+E07000215,Tandridge,Female,84.51
+E07000216,Waverley,Male,82.18
+E07000216,Waverley,Female,85.62
+E07000217,Woking,Male,80.68
+E07000217,Woking,Female,86.21
+E07000218,North Warwickshire,Male,77.53
+E07000218,North Warwickshire,Female,81.3
+E07000219,Nuneaton and Bedworth,Male,78.41
+E07000219,Nuneaton and Bedworth,Female,82.66
+E07000220,Rugby,Male,78.57
+E07000220,Rugby,Female,83.44
+E07000221,Stratford-on-Avon,Male,81.48
+E07000221,Stratford-on-Avon,Female,84.72
+E07000222,Warwick,Male,79.6
+E07000222,Warwick,Female,83.99
+E07000223,Adur,Male,81.68
+E07000223,Adur,Female,83.77
+E07000224,Arun,Male,79.54
+E07000224,Arun,Female,84.39
+E07000225,Chichester,Male,79.65
+E07000225,Chichester,Female,85.36
+E07000226,Crawley,Male,79.32
+E07000226,Crawley,Female,83.62
+E07000227,Horsham,Male,81.92
+E07000227,Horsham,Female,85.35
+E07000228,Mid Sussex,Male,81.86
+E07000228,Mid Sussex,Female,85.38
+E07000229,Worthing,Male,79.24
+E07000229,Worthing,Female,83.53
+E07000234,Bromsgrove,Male,81.34
+E07000234,Bromsgrove,Female,83.91
+E07000235,Malvern Hills,Male,79.19
+E07000235,Malvern Hills,Female,84.28
+E07000236,Redditch,Male,79.76
+E07000236,Redditch,Female,83.11
+E07000237,Worcester,Male,76.79
+E07000237,Worcester,Female,83.42
+E07000238,Wychavon,Male,80.17
+E07000238,Wychavon,Female,84.88
+E07000239,Wyre Forest,Male,78.57
+E07000239,Wyre Forest,Female,82.8
+E07000240,St Albans,Male,82.07
+E07000240,St Albans,Female,84.73
+E07000241,Welwyn Hatfield,Male,81.06
+E07000241,Welwyn Hatfield,Female,84.69
+E07000242,East Hertfordshire,Male,81.46
+E07000242,East Hertfordshire,Female,85.94
+E07000243,Stevenage,Male,79.47
+E07000243,Stevenage,Female,82.13
+E07000244,East Suffolk,Male,80.9
+E07000244,East Suffolk,Female,83.93
+E07000245,West Suffolk,Male,80.88
+E07000245,West Suffolk,Female,84.36
+E08000001,Bolton,Male,76.82
+E08000001,Bolton,Female,82.13
+E08000002,Bury,Male,78.11
+E08000002,Bury,Female,82.03
+E08000003,Manchester,Male,75.21
+E08000003,Manchester,Female,79.88
+E08000004,Oldham,Male,76.92
+E08000004,Oldham,Female,80.88
+E08000005,Rochdale,Male,77.72
+E08000005,Rochdale,Female,81.19
+E08000006,Salford,Male,76.6
+E08000006,Salford,Female,81.45
+E08000007,Stockport,Male,79.71
+E08000007,Stockport,Female,83.48
+E08000008,Tameside,Male,76.45
+E08000008,Tameside,Female,80.62
+E08000009,Trafford,Male,79.36
+E08000009,Trafford,Female,83.83
+E08000010,Wigan,Male,77.45
+E08000010,Wigan,Female,81.34
+E08000011,Knowsley,Male,76.76
+E08000011,Knowsley,Female,79.46
+E08000012,Liverpool,Male,75.94
+E08000012,Liverpool,Female,80.14
+E08000013,St. Helens,Male,77.01
+E08000013,St. Helens,Female,80.93
+E08000014,Sefton,Male,78.51
+E08000014,Sefton,Female,82.08
+E08000015,Wirral,Male,78.05
+E08000015,Wirral,Female,81.67
+E08000016,Barnsley,Male,77.46
+E08000016,Barnsley,Female,81.74
+E08000017,Doncaster,Male,76.85
+E08000017,Doncaster,Female,81.36
+E08000018,Rotherham,Male,78.69
+E08000018,Rotherham,Female,81.74
+E08000019,Sheffield,Male,78.46
+E08000019,Sheffield,Female,81.91
+E08000021,Newcastle upon Tyne,Male,77.09
+E08000021,Newcastle upon Tyne,Female,81.78
+E08000022,North Tyneside,Male,77.92
+E08000022,North Tyneside,Female,82.22
+E08000023,South Tyneside,Male,76.17
+E08000023,South Tyneside,Female,80.22
+E08000024,Sunderland,Male,76.77
+E08000024,Sunderland,Female,81.21
+E08000025,Birmingham,Male,76.79
+E08000025,Birmingham,Female,81.34
+E08000026,Coventry,Male,77.52
+E08000026,Coventry,Female,81.99
+E08000027,Dudley,Male,78.56
+E08000027,Dudley,Female,82.93
+E08000028,Sandwell,Male,76.66
+E08000028,Sandwell,Female,80.75
+E08000029,Solihull,Male,79.87
+E08000029,Solihull,Female,84.48
+E08000030,Walsall,Male,77.8
+E08000030,Walsall,Female,81.99
+E08000031,Wolverhampton,Male,77.21
+E08000031,Wolverhampton,Female,81.39
+E08000032,Bradford,Male,77.04
+E08000032,Bradford,Female,81.53
+E08000033,Calderdale,Male,78.11
+E08000033,Calderdale,Female,82.48
+E08000034,Kirklees,Male,78.01
+E08000034,Kirklees,Female,81.62
+E08000035,Leeds,Male,78.58
+E08000035,Leeds,Female,82.52
+E08000036,Wakefield,Male,77.66
+E08000036,Wakefield,Female,81.56
+E08000037,Gateshead,Male,76.38
+E08000037,Gateshead,Female,81.07
+E09000002,Barking and Dagenham,Male,78.42
+E09000002,Barking and Dagenham,Female,82.14
+E09000003,Barnet,Male,82.3
+E09000003,Barnet,Female,86.03
+E09000004,Bexley,Male,80.08
+E09000004,Bexley,Female,83.27
+E09000005,Brent,Male,80.17
+E09000005,Brent,Female,85.27
+E09000006,Bromley,Male,81.6
+E09000006,Bromley,Female,85.35
+E09000007,Camden,Male,81.62
+E09000007,Camden,Female,85.92
+E09000008,Croydon,Male,79.47
+E09000008,Croydon,Female,84.01
+E09000009,Ealing,Male,80.2
+E09000009,Ealing,Female,85.24
+E09000010,Enfield,Male,81.67
+E09000010,Enfield,Female,85.22
+E09000011,Greenwich,Male,79.43
+E09000011,Greenwich,Female,82.72
+E09000012,Hackney,Male,78.16
+E09000012,Hackney,Female,82.62
+E09000013,Hammersmith and Fulham,Male,79.7
+E09000013,Hammersmith and Fulham,Female,85
+E09000014,Haringey,Male,79.65
+E09000014,Haringey,Female,85.17
+E09000015,Harrow,Male,81.76
+E09000015,Harrow,Female,85.64
+E09000016,Havering,Male,80.44
+E09000016,Havering,Female,84.37
+E09000017,Hillingdon,Male,80.46
+E09000017,Hillingdon,Female,84.6
+E09000018,Hounslow,Male,80.02
+E09000018,Hounslow,Female,84.67
+E09000019,Islington,Male,78.58
+E09000019,Islington,Female,83.06
+E09000020,Kensington and Chelsea,Male,82.7
+E09000020,Kensington and Chelsea,Female,86.51
+E09000021,Kingston upon Thames,Male,81.9
+E09000021,Kingston upon Thames,Female,85.59
+E09000022,Lambeth,Male,79.28
+E09000022,Lambeth,Female,83.75
+E09000023,Lewisham,Male,78.63
+E09000023,Lewisham,Female,83.24
+E09000024,Merton,Male,80.73
+E09000024,Merton,Female,84.76
+E09000025,Newham,Male,79.04
+E09000025,Newham,Female,83.47
+E09000026,Redbridge,Male,81.29
+E09000026,Redbridge,Female,85.36
+E09000027,Richmond upon Thames,Male,82.23
+E09000027,Richmond upon Thames,Female,86.83
+E09000028,Southwark,Male,79.28
+E09000028,Southwark,Female,83.07
+E09000029,Sutton,Male,80.77
+E09000029,Sutton,Female,84.11
+E09000030,Tower Hamlets,Male,79.04
+E09000030,Tower Hamlets,Female,83.28
+E09000031,Waltham Forest,Male,79.53
+E09000031,Waltham Forest,Female,83.79
+E09000032,Wandsworth,Male,80.07
+E09000032,Wandsworth,Female,84.93
+E09000033,Westminster,Male,82.19
+E09000033,Westminster,Female,86.21
