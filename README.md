@@ -27,7 +27,7 @@ Investigating the role of GP surgeries in shaping health and social inequalities
 
 ## Dashboard
 
-**[Access the Tableau dashboard here:](https://public.tableau.com/app/profile/shivam.wadhia/viz/HealthcarePostcodeLottery/Dashboard1)**
+**[Access the Tableau dashboard here:](https://public.tableau.com/app/profile/shivam.wadhia/viz/HealthcarePostcodeLottery/TheHealthcarePostcodeLottery)**
  
 ## Data Sources
 **Local Authority-Level:**
